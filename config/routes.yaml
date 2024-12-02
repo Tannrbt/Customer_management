@@ -1,0 +1,3 @@
+index:
+    path: /x
+    controller: App\Controller\UserController::index
